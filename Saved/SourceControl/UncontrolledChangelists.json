@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/FirstPerson/Blueprints/BP_Enemy.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/ThirdPerson/Blueprints/BP_CompleteEnemy.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/66/0J8XJR678YD098ITC7VBE6.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2B/JNYNE91XEP5LLL9N30K6EA.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/P2/L4BN5MMFBW6EYABA6M78CP.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TY/7YDW55OJDXBTQWL7DDJ46I.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/6V/Y93G77S7VQWSGABGY8EFMZ.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/DN/9PQ7AWOC21PW2S3RMSTHOA.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/5S/KS49TIN12FG2EQYBR6GQ7T.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/ThirdPerson/Blueprints/AI_Controller.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/ThirdPerson/Blueprints/NewBlackboardData.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/ThirdPerson/Blueprints/NewBehaviorTree.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/ThirdPerson/Blueprints/BTTask_FollowPlayer.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/ThirdPerson/Blueprints/BTTask_Wander.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"D:/WoWPerroDev/IA2/BehaviourThree/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset"
+			]
+		}
+	]
+}
